@@ -1,6 +1,6 @@
 {
   "name": "@brandingbrand/fsi18n",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Internationalization helpers for Flagship",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
@@ -24,6 +24,6 @@
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
-    "@brandingbrand/fscommerce": "^0.0.1"
+    "@brandingbrand/fscommerce": "^0.1.0"
   }
 }

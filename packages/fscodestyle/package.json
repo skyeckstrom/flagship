@@ -1,6 +1,6 @@
 {
   "name": "@brandingbrand/fscodestyle",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "license": "MIT",
   "bin": {
     "fscodestyle": "index.js"
@@ -10,9 +10,9 @@
     "tsc:watch": "tsc -w --preserveWatchOutput"
   },
   "dependencies": {
+    "tslint": "^5.10.0",
     "tslint-eslint-rules": "^5.3.1",
-    "tslint-react": "^3.6.0",
-    "tslint": "^5.10.0"
+    "tslint-react": "^3.6.0"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
